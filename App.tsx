@@ -66,7 +66,6 @@ function App(): JSX.Element {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Header />
-        <Text>trolis putis</Text>
       </ScrollView>
     </SafeAreaView>
   );
